@@ -14,5 +14,9 @@ function deepestChild() {
   
 }
 
-
+function increaseRankBy(n) {
+  for (let i = 0; i < rank.length; i++) {
+    rank[i].innerHTML = 
+  }
+}
 
